@@ -1,0 +1,11 @@
+{
+  "name": "leadengine/mautic-fcmnotification-bundle",
+  "type": "mautic-plugin",
+  "require": {
+    "mautic/composer-plugin": "^1.0",
+    "plokko/firebase-php": "^0.1.4"    
+  },
+  "extra": {
+    "install-directory-name": "FCMNotificationBundle"
+  }
+}
